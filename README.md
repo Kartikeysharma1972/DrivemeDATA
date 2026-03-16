@@ -1,14 +1,5 @@
 # 🚗 Autonomous Driving Data Platform
 
-A cloud-native, scalable data platform designed for Autonomous Driving R&D. Built with containerized microservices, distributed data processing, and AI/ML pipelines on AWS.
-
-![Architecture](docs/architecture.png)
-![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)
-![Terraform](https://img.shields.io/badge/IaC-Terraform-purple?logo=terraform)
-![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)
-![Kubernetes](https://img.shields.io/badge/K8s-Orchestration-blue?logo=kubernetes)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-green?logo=github-actions)
 
 ## 🏗️ Architecture
 
