@@ -160,12 +160,5 @@ pytest --cov=src --cov-report=html
 - Secrets managed via AWS Secrets Manager
 - VPC with private subnets for data services
 
-## 📄 License
 
-MIT License — see [LICENSE](LICENSE)
-
-## 👤 Author
-
-**Kartikey** — AI Engineer & Cloud Architect
-- Website: [kartikey.site](https://kartikey.site)
 - LinkedIn: [linkedin.com/in/kartikey1972](https://linkedin.com/in/kartikey1972)
