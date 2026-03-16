@@ -152,4 +152,3 @@ pytest --cov=src --cov-report=html
 - VPC with private subnets for data services
 
 
-- LinkedIn: [linkedin.com/in/kartikey1972](https://linkedin.com/in/kartikey1972)
